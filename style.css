@@ -59,25 +59,25 @@ header li {
 .section h2 {
   border-bottom: 1px solid #cc1;
 }
-.section #saction4 {
+.section #section4 {
   background-color: #3a504c;
   padding: 10%;
   text-align: end;
 }
 
-.section #saction3 {
+.section #section3 {
   background-color: #0a4e42;
   padding: 10%;
 }
 
-.section #saction2 {
-  background-color: #727e65;
+.section #section2 {
+  background-color: #9bac88;
   padding: 10%;
   text-align: end;
 }
 
-.section #saction1 {
-  background-color: #3d635c;
+.section #section1 {
+  background-color: #9aa8a6;
   padding: 10%;
 }
 .footer {
