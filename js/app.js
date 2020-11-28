@@ -23,16 +23,4 @@ function myFunction4() {
 
 // this is function for getBoundingClientRect() Method 
 
-function myFunction5() {
-  var s = document.getElementById("section");
-  var rect = s.getBoundingClientRect();
-  x = rect.top;
   
-    if (x = 41.84375) {
-        alert ("Left: " + x + " , Height: " + h);
-
-    }
-    else
-         alert ("Left: " + x + " , Height: " + h);
-};
-myFunction5();
